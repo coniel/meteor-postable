@@ -11,7 +11,7 @@ PostableModel.makePostable(Group, "group");
 
 ### Instance Methods ###
 
-**user()** - The use who created the post. Poster may return the same as user if the user created the post in their own feed.
+**user()** - The user who created the post. Poster may return the same as user if the user created the post in their own feed.
 
 
 ### Instance Methods ###

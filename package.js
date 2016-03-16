@@ -14,7 +14,7 @@ Package.onUse(function (api) {
         "coniel:privacy@0.0.1",
         "coniel:pinnable@0.0.1",
         "coniel:likeable@0.0.1",
-        "coniel:commentable@0.0.1",
+        "coniel:commentable@0.0.2",
         "coniel:followable@0.0.1",
         "mdg:validated-method@1.0.1",
         "didericis:callpromise-mixin@0.0.1",
