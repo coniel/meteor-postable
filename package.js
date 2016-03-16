@@ -1,7 +1,7 @@
 Package.describe({
     name: "coniel:postable",
     summary: "A package for implementing social feeds",
-    version: "0.0.1",
+    version: "0.0.2",
     git: "https://github.com/coniel/meteor-postable.git"
 });
 
